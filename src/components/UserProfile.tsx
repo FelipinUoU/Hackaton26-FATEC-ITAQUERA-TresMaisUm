@@ -31,7 +31,7 @@ export const UserProfile: React.FC<UserProfileProps> = ({
   const handleShareProfile = () => {
     if (navigator.share) {
       navigator.share({
-        title: `${profile.name} - FATECHub`,
+        title: `${profile.name} - FATEC Voz do Fatecano`,
         text: `Perfil de ${profile.name} na rede acadêmica FATEC`,
         url: window.location.href,
       });
@@ -93,7 +93,7 @@ export const UserProfile: React.FC<UserProfileProps> = ({
           {/* Institutional Badge */}
           <div className="relative z-10 flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 backdrop-blur-md text-white text-[11px] font-bold">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-            <span>Fatec Hub Verified Community</span>
+            <span>FATEC Voz do Fatecano Verified Community</span>
           </div>
 
           {/* Student CPS ID */}
@@ -162,7 +162,7 @@ export const UserProfile: React.FC<UserProfileProps> = ({
               </button>
 
               <button
-                onClick={() => alert('Configurações de conta e privacidade da FATECHub.')}
+                onClick={() => alert('Configurações de conta e privacidade da FATEC Voz do Fatecano.')}
                 aria-label="Configurações"
                 className="w-9 h-9 rounded-xl border border-[#dce9ff] bg-[#eff4ff] hover:bg-[#dce9ff] flex items-center justify-center text-[#0b1c30] transition-colors cursor-pointer"
               >

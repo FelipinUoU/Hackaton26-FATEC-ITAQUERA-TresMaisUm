@@ -250,7 +250,7 @@ export default function App() {
       <Footer
         onOpenGuidelines={() =>
           alert(
-            'Diretrizes da Comunidade FATEC Voz do Aluno:\n\n1. Respeito mútuo entre todos os discentes, docentes e egressos.\n2. Não publicar conteúdos protegidos por sigilo de estágio sem autorização.\n3. Apoio colaborativo e ético no desenvolvimento de Projetos Integradores (PI) e TCCs.'
+            'Diretrizes da Comunidade FATEC Voz do Fatecano:\n\n1. Respeito mútuo entre todos os discentes, docentes e egressos.\n2. Não publicar conteúdos protegidos por sigilo de estágio sem autorização.\n3. Apoio colaborativo e ético no desenvolvimento de Projetos Integradores (PI) e TCCs.'
           )
         }
       />

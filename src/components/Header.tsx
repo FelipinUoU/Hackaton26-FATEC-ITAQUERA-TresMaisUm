@@ -57,7 +57,7 @@ export const Header: React.FC<HeaderProps> = ({
             </div>
             <div className="flex flex-col">
               <span className="font-semibold text-[15px] sm:text-[16px] text-[#a20513] leading-tight tracking-tight">
-                FATEC <span className="text-[#0b1c30] font-normal">Voz do Aluno</span>
+                FATEC <span className="text-[#0b1c30] font-normal">Voz do Fatecano</span>
               </span>
               <span className="text-[10px] text-[#5b403d] uppercase tracking-wider font-semibold">
                 Rede Acadêmica

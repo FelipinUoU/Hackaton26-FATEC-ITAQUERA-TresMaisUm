@@ -607,7 +607,7 @@ export const CommunityFeed: React.FC<CommunityFeedProps> = ({
                 </div>
                 <div>
                   <h3 className="text-[15px] font-bold text-[#0b1c30] leading-tight">
-                    FATEC Voz do Aluno
+                    FATEC Voz do Fatecano
                   </h3>
                   <p className="text-[10px] text-[#a20513] uppercase font-extrabold tracking-wider">
                     Rede Acadêmica Oficial
@@ -761,7 +761,7 @@ export const CommunityFeed: React.FC<CommunityFeedProps> = ({
                 <h4 className="text-[14px] font-bold text-[#0b1c30]">Atividade na Rede</h4>
                 <span className="text-[11px] text-[#a20513] font-bold">+18% hoje</span>
               </div>
-              <p className="text-[11px] text-[#5b403d] mb-3">Interações em tempo real na FATEC Voz do Aluno:</p>
+              <p className="text-[11px] text-[#5b403d] mb-3">Interações em tempo real na FATEC Voz do Fatecano:</p>
               
               <div className="w-full flex items-end justify-between h-20 pt-2 gap-2">
                 {[

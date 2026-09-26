@@ -29,7 +29,7 @@ export const SyncCalendarModal: React.FC<SyncCalendarModalProps> = ({
   const handleDownloadIcs = () => {
     const icsContent = `BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FATEC Voz do Aluno//Calendario 2025//PT-BR
+PRODID:-//FATEC Voz do Fatecano//Calendario 2025//PT-BR
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 SUMMARY:Horas Complementares SIGA

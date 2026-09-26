@@ -104,7 +104,7 @@ public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
     title: 'Guia de Validação de Estágio no SIGA + 12 Vagas Abertas para Alunos FATEC em São Paulo e Home Office',
     content: 'Compilei todos os passos burocráticos exigidos pela coordenação de estágios da FATEC para você não perder o prazo de envio do TCE. Também conversei com ex-alunos de ADS e DSM e temos vagas ativas de Backend (Node/Java) e Suporte Técnico Cloud.',
     imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD1ciawgL7ZLQuNmGXBNEXZm0T-nVIMu3ox-QKmufAAyO9FS0D1NRqfJY0z5cb5rDWU4MaTyeCGXQESxmSnwx3kbSwkn6TVEzKE7dOoXA74B-Wg2agM6Bm0t2SVI8xzNsb7ywh7VI8R7SyhL8lKheRC5hxZe2KaieV6g1xpvNG4gggy3Ol6Gk-IEWR7cSaQD58qzWEpXJMX0WvLyQNtfokQpq_DSO_DpQ4T037yXDu3WhvTszGxOdYJ',
-    imageCaption: 'Central de Estágios • FATEC Voz do Aluno',
+    imageCaption: 'Central de Estágios • FATEC Voz do Fatecano',
     imageAlt: 'Ambiente moderno da faculdade de tecnologia com estudantes colaborando em computadores',
     upvotes: 89,
     commentCount: 52,
