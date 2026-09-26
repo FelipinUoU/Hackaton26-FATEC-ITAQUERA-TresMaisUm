@@ -1,0 +1,6 @@
+{
+  "name": "FATEC Voz do Aluno - Rede Acadêmica & Calendário Oficial",
+  "description": "Plataforma colaborativa oficial para estudantes da FATEC e CPS: comunidade, calendário acadêmico, prazos do SIGA, eventos e perfil do aluno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
