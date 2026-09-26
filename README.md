@@ -8,4 +8,8 @@ Integrantes:
 - Carlos Eduardo
 - Guilherme Santos
 
-  
+Para rodar este projeto, basta rodar no terminal do diretorio: 
+> npm install
+
+E depois:
+> npm run dev
