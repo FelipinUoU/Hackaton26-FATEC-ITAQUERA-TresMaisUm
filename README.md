@@ -1,15 +1,13 @@
-## Projeto: FATEC Voz do Aluno
-O FATEC Voz do Aluno é uma plataforma desenvolvida para gerenciar e amplificar as demandas dos estudantes. O projeto foi estruturado e executado pela equipe TresMaisUm.
+## Projeto: FATEC Voz do Fatecano
+O FATEC Voz do Aluno é uma plataforma desenvolvida para gerenciar e amplificar as demandas dos estudantes, com inspiração na rede social "Reddit". O projeto foi estruturado e executado pela equipe TresMaisUm.
 ## Equipe (TresMaisUm)
 
-* 
 * Ana Carolina dos Santos
 * Carlos Eduardo
 * Felipe Silva
 * Guilherme Pereira
 * Guilherme Santos
 * Samuel Santiago
-* 
 
 ## Stack Tecnológicos
 - React 19
